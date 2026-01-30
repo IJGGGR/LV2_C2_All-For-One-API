@@ -6,4 +6,4 @@
 
 ## Peer Review
 
-- TODO
+- Brandon Van Horn - code looks good all of it runs correctly there could be more input checking if they entered a word instead of a number that type of thing but besides that good work.
