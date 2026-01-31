@@ -11,8 +11,7 @@ namespace SV.Services
         {
             char[] arr = str.ToCharArray();
             if (!Array.TrueForAll(arr, char.IsAsciiDigit)) return null;
-            Array.Reverse(arr);
-            return $"{str} -> {new string(arr)}";
+            return $"{str} -> {[.. arr.Reverse()]}";
         }
     }
 }

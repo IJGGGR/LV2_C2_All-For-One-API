@@ -2,7 +2,7 @@
 
 - Author: Isaias Gonzalez
 - Revised: 2026-01-30
-- Link: https://csa-2526-ig-afo-api-b7ccczbnakheg9e9.westus3-01.azurewebsites.net/
+- Link: https://csa-2526-ig-afo-api-b7ccczbnakheg9e9.westus3-01.azurewebsites.net/api/HelloWorld
 
 ## Peer Review
 
